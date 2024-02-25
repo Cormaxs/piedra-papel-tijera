@@ -44,3 +44,8 @@ h1{
     display: flex;
     width: 70%;
 }
+footer{
+    width: 100%;
+    padding: 10px;
+    color: #FEFEFE;
+}
